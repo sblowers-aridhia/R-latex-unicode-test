@@ -1,0 +1,18 @@
+\documentclass[10pt]{article}
+
+\usepackage{lscape}
+\usepackage{longtable}
+\usepackage{longtable}
+
+
+
+\title{Covid Trials Tracker Report}
+
+\begin{document}
+
+\section{Unicode Test}
+<< echo = FALSE, warning=FALSE, message=FALSE, results = 'asis' >>=
+cat(string)
+@
+
+\end{document}

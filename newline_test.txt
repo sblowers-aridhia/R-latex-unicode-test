@@ -1,0 +1,4 @@
+I am some simple text.
+This should be a new paragraph.
+
+Double new paragraph?
